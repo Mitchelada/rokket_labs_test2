@@ -1,7 +1,7 @@
 # Test Rokket MERN 
 
 [![N|Solid](https://www.rokketlabs.com/assets/logos/horizontal-purple.svg)](https://nodesource.com/products/nsolid)
-
+![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-e3c1ec89397b.gif)
 - **Nombre Del postulante**: Michel Araya
 - **Cargo a postular**: Desarrollador FullStack
 
